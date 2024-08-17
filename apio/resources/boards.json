@@ -799,5 +799,16 @@
       "vid": "0403",
       "pid": "6010"
     }
+  },
+  "Sipeed-Tang-Nano-20k-ram": {
+    "name":"Sipeed Tang Nano 20k",
+    "fpga": "GW2AR-LV18QN88C8/I7",
+    "programmer": {
+      "type": "openfpgaloader_tangnano20k_ram"
+    },
+    "usb": {
+      "vid": "0403",
+      "pid": "6010"
+    }
   }
  } 
